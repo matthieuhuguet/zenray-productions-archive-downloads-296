@@ -1,0 +1,11 @@
+; If you miss selective download files - that's OK
+7a08d3ef0945c7df0ebc57b8820c5c66 *..\fg-01.bin
+8038bd56e229aaaaad085542fc5cdb80 *..\fg-02.bin
+4b5a01d78b85898c36c998b83591b811 *..\fg-03.bin
+9cd552094479dc120f0950ed664b88cb *..\fg-04.bin
+f794353e7ac0e22c57bfe069817d7511 *..\fg-05.bin
+4f38abbb29abf7b55070f2dd0f5c27b6 *..\fg-optional-french-vo.bin
+0a35e67edd55b9face6470d060ed3fe3 *..\fg-optional-german-vo.bin
+fc4ba008d716040ba8670438f70aa642 *..\fg-optional-italian-vo.bin
+a3a5da0ad3c4db60138b6c2a4f761640 *..\fg-optional-polish-vo.bin
+2ec4b2b779172dbce062b146cfb0a74d *..\fg-optional-spanish-vo.bin
